@@ -1,0 +1,17 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for ticket management with custom commands",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "ticket"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-schedule": "^2.1.1"
+  }
+}
